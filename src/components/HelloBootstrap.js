@@ -6,9 +6,7 @@ function HelloBootstrap(){
             <div className="jumbotron bg-info class">
                 <h1>Melissa Pazzanese's Portfolio</h1>
                 <p>mellpazzanese@icloud.com</p>
-                <p><button className="btn btn-secondary">
-                    Learn more
-                    </button>
+                <p><a href="https://www.linkedin.com/in/melissa-pazzanese-87b6071ab/" class="btn btn-secondary stretched-link">Check Out My Linkedin Profile</a>
                     </p>
             </div>
         <div className="card mb-4">
@@ -17,10 +15,9 @@ function HelloBootstrap(){
         </div>
         <div className="card-body">
             <p className="card-text">password-generator2</p>
-            <p><button className="btn btn-secondary">
-                    Learn more
-                    </button>
-                    </p>
+            <p>
+                <a href="https://melissapazzanese123.github.io/password-generator2/" class="btn btn-secondary stretched-link">Click here</a>
+            </p>
 
         </div>
         </div>
@@ -30,11 +27,10 @@ function HelloBootstrap(){
             <h3>Project 2</h3>
         </div>
         <div className="card-body">
-            <p className="card-text">console_finances </p>
-            <p><button className="btn btn-secondary">
-                    Learn more
-                    </button>
-                    </p>
+            <p className="card-text">code-quiz-api </p>
+            <p>
+                <a href="https://melissapazzanese123.github.io/code-quiz-api/" class="btn btn-secondary stretched-link">Click here</a>
+            </p>
 
         </div>
         </div>
@@ -45,10 +41,9 @@ function HelloBootstrap(){
         </div>
         <div className="card-body">
             <p className="card-text">bootstrap-portfolio</p>
-            <p><button className="btn btn-secondary">
-                    Learn more
-                    </button>
-                    </p>
+            <p>
+                <a href="https://melissapazzanese123.github.io/bootstrap-portfolio/" class="btn btn-secondary stretched-link">Click here</a>
+            </p>
 
         </div>
         </div>
